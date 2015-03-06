@@ -7,7 +7,8 @@ const SectionTwo = React.createClass({
     let style = {
       'background': '#A7DBD8',
       'width': '100%',
-      'height': '75%'
+      'height': '75%',
+      'padding': '25'
     };
 
     return (
